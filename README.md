@@ -3,7 +3,7 @@ Multi-class classification of the Fashion-MNIST dataset (provided by the Zalando
  using Neural Networks.
 
 ## Developing environment
-* Python 3.6
+* Python 3.7
 
 ## Dataset
 The dataset used is available here :
